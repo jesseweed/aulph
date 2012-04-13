@@ -7,6 +7,8 @@
 
 Aulph (Alf) is a PHP 5 Library for working with the OAuth2 client & server process.
 
+No, it's not done :)
+
 ##Development Team
 
 * Jesse Weed - Lead Developer ([http://jesseweed.com](http://jesseweed.com))
