@@ -5,7 +5,7 @@
 
 ## Description
 
-Auth (Alf) is a PHP 5 Library for working with the OAuth2 client & server process.
+Aulph (Alf) is a PHP 5 Library for working with the OAuth2 client & server process.
 
 ##Development Team
 
