@@ -12,3 +12,6 @@ No, it's not done :)
 ##Development Team
 
 * Jesse Weed - Lead Developer ([http://jesseweed.com](http://jesseweed.com))
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jesseweed/aulph/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
